@@ -75,12 +75,12 @@
 }
 /* line 56, ../sass/screen.scss */
 .header-section ul li.active > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 60, ../sass/screen.scss */
 .header-section ul li .number {
 	font-size: 0.86429em;
-	background: #17a2aa;
+	background: #ee333e;
 	width: 17px;
 	height: 17px;
 	line-height: 17px;
@@ -192,7 +192,7 @@
 	padding-bottom: 8px;
 }
 .header-section ul li.mega-menu > ul > li ul li a:hover {
-	color: #17a2aa;
+	color: #ee333e;
 	margin-left: 8px;
 	transition: all 0.2s ease-out 0s;
 }
@@ -278,7 +278,7 @@
 }
 /* line 263, ../sass/screen.scss */
 .header-section ul li.cart-parent .cart-box span {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 266, ../sass/screen.scss */
 .header-section ul li.cart-parent .cart-box ul {
@@ -346,7 +346,7 @@
 }
 /* line 324, ../sass/screen.scss */
 .header-section ul li.cart-parent .cart-box .btn.btn-primary {
-	background: #17a2aa !important;
+	background: #ee333e !important;
 	color: #fff;
 }
 /* line 335, ../sass/screen.scss */
@@ -563,7 +563,7 @@
 }
 /* line 497, ../sass/screen.scss */
 .header-section.style3 #menu ul li ul li:hover > a, .header-section.style3 #menu ul li ul li.active > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 507, ../sass/screen.scss */
 .header-section.style3 #menu ul li.mega-menu li ul li a {
@@ -571,7 +571,7 @@
 }
 /* line 511, ../sass/screen.scss */
 .header-section.style3 #menu ul li.mega-menu li ul li:hover a, .header-section.style3 #menu ul li.mega-menu li ul li.active a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 .header-section.style3 ul li ul li a span.sub-arrow {
 	float: right;
@@ -605,7 +605,7 @@
 }
 /* line 542, ../sass/screen.scss */
 .header-section.style4 ul li ul {
-	background: #17a2aa;
+	background: #ee333e;
 }
 /* line 544, ../sass/screen.scss */
 .header-section.style4 ul li ul li {
@@ -626,11 +626,11 @@
 }
 /* line 551, ../sass/screen.scss */
 .header-section.style4 ul li.search-parent .search-box {
-	background: #17a2aa;
+	background: #ee333e;
 }
 /* line 553, ../sass/screen.scss */
 .header-section.style4 ul li.search-parent .search-box .form-control {
-	background: #17a2aa;
+	background: #ee333e;
 	border: 1px solid #25b9c1;
 }
 /* line 555, ../sass/screen.scss */
@@ -647,7 +647,7 @@
 }
 /* line 567, ../sass/screen.scss */
 .header-section.style4 ul li.cart-parent .cart-box {
-	background: #17a2aa;
+	background: #ee333e;
 	color: #fff;
 }
 /* line 569, ../sass/screen.scss */
@@ -674,7 +674,7 @@
 }
 /* line 598, ../sass/screen.scss */
 .header-section ul li:hover > a, .header-section ul li.active > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 603, ../sass/screen.scss */
 .header-section ul li ul {
@@ -869,7 +869,7 @@
 }
 /* line 824, ../sass/screen.scss */
 .header-section #menu > ul li.hover > a, .header-section #menu > ul li.active > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 831, ../sass/screen.scss */
 .header-section #menu > ul li.hover > .arrow:after {
@@ -913,7 +913,7 @@
 }
 /* line 876, ../sass/screen.scss */
 .header-section ul li.search-parent.active > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 879, ../sass/screen.scss */
 .header-section ul li.search-parent.active .search-box {
@@ -925,7 +925,7 @@
 }
 /* line 888, ../sass/screen.scss */
 .header-section ul li.cart-parent.active > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 891, ../sass/screen.scss */
 .header-section ul li.cart-parent.active .cart-box {
@@ -981,7 +981,7 @@
 }
 /* line 942, ../sass/screen.scss */
 .header-section.style3 #menu ul li.active > a, .header-section.style3 #menu ul li.hover > a {
-	color: #17a2aa;
+	color: #ee333e;
 }
 /* line 946, ../sass/screen.scss */
 .header-section.style3 #menu ul li ul {
@@ -1011,7 +1011,7 @@
 }
 /* line 974, ../sass/screen.scss */
 .header-section.style4 #menu ul {
-	background: #17a2aa;
+	background: #ee333e;
 }
 /* line 976, ../sass/screen.scss */
 .header-section.style4 #menu ul li {
